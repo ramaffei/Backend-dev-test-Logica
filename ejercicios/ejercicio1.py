@@ -1,6 +1,3 @@
-from winreg import REG_RESOURCE_REQUIREMENTS_LIST
-
-
 def fizz_buzz() -> None:
    
    """ Funcion que que itera numeros 1 al 100 y muestra en pantalla "Fizz" si el numero es multiplo de 3, "Buzz" si el numero es multiplo de 5 ó "Fizz Buzz" si el numero es multiplo de 3 y 5. Si no se cumple alguna de estas condiciones, muestra el numero."""
